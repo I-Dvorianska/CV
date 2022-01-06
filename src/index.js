@@ -1,2 +1,2 @@
-import './sass/main.scss';
 import 'normalize.css';
+import './sass/main.scss';
